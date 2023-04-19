@@ -1,0 +1,13 @@
+/*Custom Properties*/
+:root{
+    /*Colores*/
+    --primario: #9c27b0;
+    --primarioOscuro: #89119d;
+    --secundario: #ffce00;
+    --secundario: rgb(233,287,2);
+    --balnco: #fff;
+
+    /*Fuentes*/
+    --fuentePrincipal: 'Staatliches', cursive;
+    
+}
